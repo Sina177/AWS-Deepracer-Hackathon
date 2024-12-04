@@ -6,4 +6,4 @@ A **reinforcement learning** approach was used, where the agent (the DeepRacer c
 
 To train the model, we defined the settings for its continuous action space. The action space settings influenced how the agent made decisions during training, and fine-tuning them helped us achieve optimal performance on the track.
 
-![Action Space Settings](Continuous_Action_Space.png)
+![Action Space Settings](Img/Continuous_Action_Space.png)
